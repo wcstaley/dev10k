@@ -65,6 +65,8 @@ if(isset($_POST['project_submitted'])){
 	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	
 	<link rel="stylesheet" href="/assets/css/style.css" type="text/css" media="all" title="" charset="utf-8">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="/assets/js/site.js" type="text/javascript" charset="utf-8"></script>
 	
 </head>
 <body>
